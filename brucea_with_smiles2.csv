@@ -1,0 +1,44 @@
+S No.,CHEMICAL CONSTITUENTS,BIOLOGICAL ACTIVITY,ChEMBL_ID,SMILES
+1.0,Bruceine B,"Amebicide, Antimalarial, Antiplasmodial, Cytotoxic, Insecticide, Pesticide, Plasmodicide, Protisticide, Trypanocide^3",CHEMBL140809,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(C)=O)[C@@H]24
+2.0,Bruceine D,"Amebicide, Anticancer, Antileukemic, Antimalarial, Antitumour, Cytotoxic, Pesticide, Plasmodicide, Protisticide, Trypanocide3, Antiphytoviral4",CHEMBL477693,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O
+3.0,Brusatol,"Amebicide, Anticancer, Antifeedant, Antigiardial, Antileukemic, Antimalarial, Antitumor, Cytotoxic, Pesticide, Plasmodicide, Protisticide, Trypanocide3",CHEMBL450464,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24
+4.0,Bruceoside B,-,,
+5.0,Yadanziolide A,"Antimalarial, Pesticide3",CHEMBL478566,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(CO)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O
+6.0,Soulameanone,-,,
+7.0,11-Hydroxycanthin-6-one,"Cytotoxic, Antileukemic",,
+8.0,Bruceolline A,-,,
+9.0,Bruceolline B,-,,
+10.0,Bruceolline C,-,,
+11.0,Bruceolline D,-,,
+12.0,Bruceolline E,-,CHEMBL1922996,CC1(C)C(=O)C(=O)c2c1[nH]c1ccccc21
+13.0,Bruceolline F,-,CHEMBL1922997,CC(C)(O)[C@@H](O)Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc12
+14.0,Bruceolline G,-,,
+15.0,5-Dimethoxycanthin-6-one,-,,
+16.0,11-Hydroxycanthin-6-one N-oxide,-,,
+17.0,11-hydroxy-1-methoxycanthin-6,-,,
+18.0,1-(Hydroxymethyl) ?-carboline,-,,
+19.0,1-Ethyl- ?–carboline,"Antibacterial, CNS-Depressant, Hypotensive, Pesticide 3",,
+20.0,9H-pyridol3-lindole-1-ethanol,-,,
+21.0,? -Carboline-1-propionic acid,Camp inhibitor 3,,
+22.0,Canthin-6-one N –oxide,-,,
+23.0,11-O-?-D-glucopyranosyl-(1-6)?-D,,,
+24.0,glucopyranosylcanthin-6-one,,,
+25.0,5-O-?–Dglucopyranosyl-(1-6)-?-D,,,
+26.0,glucopyranosylcanthin-6-one,,,
+27.0,1-(2’-hydroxymethyl) ?-carboline,,,
+28.0,Bruceollines H-N 122,,,
+29.0,Bruceollines H-N 222,,,
+30.0,Bruceollines H-N 322,,,
+31.0,Bruceollines H-N 422,,,
+32.0,Bruceollines H-N 522,,,
+33.0,Bruceollines H-N 622,,,
+34.0,Bruceollines H-N 722,,,
+35.0,Yadanziolides T-V 10 22,Cytotoxic22 6,,
+36.0,Yadanziolides T-V 1122,,,
+37.0,Yadanziolides T-V 1222,,,
+38.0,Bruceolline E22,,,
+39.0,Bruceolline F22,,,
+40.0,Bruceine D22,Cytotoxic22 6,,
+41.0,Canthin-6-one,"Antibacterial, Antileukemic, Antimycotic, Antiseptic, Cytotoxic, Fungicide, Pesticide and Camp- inhibitor 3",CHEMBL156897,O=c1ccc2nccc3c4ccccc4n1c23
+42.0,Yadanziolide B22,Cytotoxic22 6,,
+43.0,1- Hydroxy-11-methoxycanthin-6-one,Cytotoxic 3,,

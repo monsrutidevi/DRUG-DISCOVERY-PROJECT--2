@@ -1,0 +1,8 @@
+S No.,CHEMICAL CONSTITUENTS,ChEMBL_ID,SMILES,standard_value,units,bioactivity_class
+1,Bruceine B,CHEMBL140809,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(C)=O)[C@@H]24,0.893,ug.mL-1,Active
+2,Bruceine D,CHEMBL477693,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,0.835,ug.mL-1,Active
+3,Brusatol,CHEMBL450464,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,29.19,nM,Active
+4,Yadanziolide A,CHEMBL478566,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(CO)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,0.216,ug.mL-1,Active
+5,Bruceolline E,CHEMBL1922996,CC1(C)C(=O)C(=O)c2c1[nH]c1ccccc21,10000.0,nM,Intermediate
+6,Bruceolline F,CHEMBL1922997,CC(C)(O)[C@@H](O)Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc12,10000.0,nM,Intermediate
+7,Canthin-6-one,CHEMBL156897,O=c1ccc2nccc3c4ccccc4n1c23,1.11,ug.mL-1,Active
