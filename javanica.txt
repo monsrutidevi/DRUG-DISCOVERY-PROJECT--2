@@ -1,0 +1,97 @@
+1	Bruceine A	
+2	Bruceine B	
+3	Bruceine C	
+4	Bruceine D	
+5	Bruceine E	
+6	Bruceine F	
+7	Bruceine G	
+8	Bruceine H	
+9	Bruceine I	
+10	Bruceine J	
+11	Bruceine M	
+12	Bruceanic acids E	
+13	Bruceanic acids F	
+14	Bruceanic acids E 
+15	Javanicolide A	
+16	Javanicolide B	
+17	Javanicolide C	
+18	Javanicolide D	
+19	Javanicolide E	
+20	Javanicolide H	
+21	Javanicoside B	
+22	Javanicoside C	
+23	Javanicoside D	
+24	Javanicoside E	
+25	Javanicoside F	
+26	Javanicoside G	
+27	Javanicoside I	
+28	Javanicoside J	
+29	Javanicoside K	
+30	Javanicoside L	
+31	Javanic acids A	
+32	Javanic acids B	
+33	Yadanzioside A	
+34	Yadanzioside B	
+35	Yadanzioside C	
+36	Yadanzioside E	
+37	Yadanzioside F	
+38	Yadanzioside G	
+39	Yadanzioside I	
+40	Yadanzioside K	
+41	Yadanzioside L	
+42	Yadanzioside M	
+43	Yadanzioside N	
+44	Yadanzioside O	
+45	Yadanzioside P	
+46	Yadanziolide C	
+47	Yadanziolide S	
+48	Yadanzigan	
+49	20-hydroxyyadanzigan	
+50	Brusatol	
+51	Bruceantin	
+52	Bruceantinol	
+53	Bruceantinosides A	
+54	Bruceoside A	
+55	Bruceoside B	
+56	Bruceoside C	
+57	Bruceoside D	
+58	Bruceoside E		
+59	Bruceoside F	
+60	Bruceene	
+61	Bruceajavanin A	
+62	Bruceajavanin B	
+63	Brujavanol A	
+64	Brujavanol B	
+65	Brujavanol C	
+66	Brujavanol D	
+67	Dihydrobruceajavanin A	
+68	Demethyl-dehydrobrusatol	
+69	Deacetyl-yadanzioside I	
+70	Dehydrobrusatol	
+71	Dehydrobruceine B	
+72	Dehydrobruceantinol	
+73	Quassilactone A	
+74	Quassilactone B	
+75	3′-hydroxybrucein A	
+76	Bruceolline H	
+77	Bruceolline I	
+78	Bruceolline J	
+79	Bruceolline K	
+80	Bruceolline L	
+81	Bruceolline M	
+82	Bruceolline N	
+83	Bruceacanthinoside	
+84	Brujavanone A	
+85	Brujavanone B	
+86	Brujavanone C	
+87	Brujavanone D	
+88	Brujavanone E	
+89	Brujavanone F	
+90	Brujavanone G	
+91	Brujavanone H	
+92	Brujavanone I	
+93	Brujavanone J	
+94	Brujavanone K	
+95	Brujavanone L	
+96	Brujavanone M	
+97	Brujavanone N	

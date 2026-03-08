@@ -1,0 +1,46 @@
+0,CHEMICAL CONSTITUENTS,ChEMBL_ID,SMILES,standard_value,units,bioactivity_class
+1.0,Bruceine A,CHEMBL250451,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)CC(C)C)[C@@H]24,0.004,ug.mL-1,Active
+2.0,Bruceine B,CHEMBL140809,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(C)=O)[C@@H]24,0.893,ug.mL-1,Active
+3.0,Bruceine C,CHEMBL455759,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24,0.107,ug.mL-1,Active
+4.0,Bruceine D,CHEMBL477693,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,0.835,ug.mL-1,Active
+5.0,Bruceine E,CHEMBL2037038,CC1=C[C@H](O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,5000.0,nM,Intermediate
+8.0,Bruceine H,CHEMBL2037039,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(CO)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,1300.0,nM,Intermediate
+10.0,Bruceine J,CHEMBL399970,CC1=C(O)C(=O)C[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C(=O)O)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](OC(=O)CC(C)C)[C@@H]45,0.742,ug.mL-1,Active
+17.0,Javanicolide C,CHEMBL443898,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C[C@@H](O)[C@@H](O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,100.0,ug.mL-1,Active
+18.0,Javanicolide D,CHEMBL503843,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)[C@H](O)[C@@H](O)C=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24,18.0,ug.mL-1,Active
+19.0,Javanicolide E,CHEMBL2037041,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)[C@H](O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,10000.0,nM,Intermediate
+20.0,Javanicolide H,CHEMBL2037037,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C[C@H](O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,10000.0,nM,Intermediate
+21.0,Javanicoside B,CHEMBL503591,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)CC(C)C)[C@@H]24,5.6,ug.mL-1,Active
+22.0,Javanicoside C,CHEMBL446883,COC(=O)[C@@]12OC[C@@]34[C@@H](CC5=C(C)C(=O)C(O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)=C[C@]5(C)[C@H]3[C@@H](O)[C@@H]1O)OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,18.0,ug.mL-1,Active
+23.0,Javanicoside D,CHEMBL451166,CC/C(=C\C(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C(=O)OC)OC[C@]32[C@@H]14)C(C)(C)O,89.0,ug.mL-1,Active
+24.0,Javanicoside E,CHEMBL508819,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)CC(C)C(C)(C)OC(C)=O)[C@@H]24,16.0,ug.mL-1,Active
+25.0,Javanicoside F,CHEMBL510116,CC/C(C)=C/C(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C(=O)OC)OC[C@]32[C@@H]14,50.0,ug.mL-1,Active
+33.0,Yadanzioside A,CHEMBL2367704,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)CC(C)C)[C@@H]24,146000.0,nM,Inactive
+34.0,Yadanzioside B,CHEMBL2367700,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)CC(C)C)[C@@H]24,4000.0,nM,Intermediate
+35.0,Yadanzioside C,CHEMBL499465,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24,55000.0,nM,Inactive
+36.0,Yadanzioside E,CHEMBL2367698,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)[C@H](O)[C@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,29000.0,nM,Inactive
+37.0,Yadanzioside F,CHEMBL509907,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(C)=O)[C@@H]24,156000.0,nM,Inactive
+38.0,Yadanzioside G,CHEMBL2368538,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)OC(C)=O)[C@@H]24,37000.0,nM,Inactive
+39.0,Yadanzioside I,CHEMBL506706,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(C)=O)[C@@H]24,22.04,ug.mL-1,Active
+41.0,Yadanzioside L,CHEMBL2367702,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24,10000.0,nM,Intermediate
+43.0,Yadanzioside N,CHEMBL2368539,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)C)[C@@H]24,49000.0,nM,Inactive
+45.0,Yadanzioside P,CHEMBL2367699,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)C)[C@@H]24,18000.0,nM,Inactive
+46.0,Yadanziolide C,CHEMBL469501,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@@H]45,0.216,ug.mL-1,Active
+50.0,Brusatol,CHEMBL450464,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,29.19,nM,Active
+51.0,Bruceantin,CHEMBL509895,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)C)[C@@H]24,514000.0,nM,Inactive
+52.0,Bruceantinol,CHEMBL450145,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)OC(C)=O)[C@@H]24,50.0,nM,Active
+54.0,Bruceoside A,CHEMBL504960,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)C=C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)[C@@H](C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,29000.0,nM,Inactive
+56.0,Bruceoside C,CHEMBL506633,COC(=O)[C@@]12OC[C@]34[C@H](OC(=O)C[C@@H]13)[C@H](OC(=O)C=C(C)C)[C@H]1C(C)=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)C[C@]1(C)[C@H]4[C@@H](O)[C@@H]2O,44000.0,nM,Inactive
+57.0,Bruceoside D,CHEMBL505146,CC(C)=CC(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C(=O)O)OC[C@]32[C@@H]14,52000.0,nM,Inactive
+58.0,Bruceoside E,CHEMBL450651,CC(C)CC(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C(=O)O)OC[C@]32[C@@H]14,59000.0,nM,Inactive
+70.0,Dehydrobrusatol,CHEMBL2037040,COC(=O)[C@@]12OC[C@@]34[C@@H](CC5=C(C)C(=O)C(O)=C[C@]5(C)[C@H]3[C@@H](O)[C@@H]1O)OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,10000.0,nM,Intermediate
+76.0,Bruceolline H,CHEMBL1922989,CC1(C)C(=O)C(=O)c2c1[nH]c1cc(O)ccc21,10000.0,nM,Intermediate
+77.0,Bruceolline I,CHEMBL1922990,CC1(C)c2[nH]c3cc(O)ccc3c2C(=O)[C@@H]1O,10000.0,nM,Intermediate
+78.0,Bruceolline J,CHEMBL1922991,CC1(C)c2[nH]c3ccccc3c2C(=O)[C@@H]1O,10000.0,nM,Intermediate
+79.0,Bruceolline K,CHEMBL1922992,CC1(C)c2[nH]c3ccccc3c2C(=O)[C@@H]1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,10000.0,nM,Intermediate
+80.0,Bruceolline L,CHEMBL1922993,CC(C)[C@@H](O)C(=O)c1c[nH]c2ccccc12,10000.0,nM,Intermediate
+81.0,Bruceolline M,CHEMBL1922994,CC(C)(O)C(=O)Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc12,10000.0,nM,Intermediate
+82.0,Bruceolline N,CHEMBL1922995,CC(C)(O)[C@@H](O)C[C@]1(O)C(=O)N([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc21,10000.0,nM,Intermediate
+,Bruceolline E,CHEMBL1922996,CC1(C)C(=O)C(=O)c2c1[nH]c1ccccc21,10000.0,nM,Intermediate
+,Bruceolline F,CHEMBL1922997,CC(C)(O)[C@@H](O)Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc12,10000.0,nM,Intermediate
+,Canthin-6-one,CHEMBL156897,O=c1ccc2nccc3c4ccccc4n1c23,1.11,ug.mL-1,Active
