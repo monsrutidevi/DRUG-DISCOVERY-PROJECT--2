@@ -4,6 +4,7 @@
 3,Bruceine C,CHEMBL455759,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)O)[C@@H]24,0.107,ug.mL-1,Active
 4,Bruceine D,CHEMBL477693,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,0.835,ug.mL-1,Active
 5,Bruceine E,CHEMBL2037038,CC1=C[C@H](O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,5000.0,nM,Intermediate
+6,Bruceine F,CHEMBL2227687,CC[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)[C@H](O)[C@@H](O)C=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](O)[C@]42O,,,Inactive
 7,Bruceine G,,,0.835,ug.mL-1,Active
 8,Bruceine H,CHEMBL2037039,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(CO)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,1300.0,nM,Intermediate
 9,Bruceine I,,,0.835,ug.mL-1,Active
@@ -45,6 +46,8 @@
 45,Yadanzioside P,CHEMBL2367699,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)C)[C@@H]24,18000.0,nM,Inactive
 46,Yadanziolide C,CHEMBL469501,CC1=CC(=O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@@H]45,0.216,ug.mL-1,Active
 47,Yadanziolide S,,,0.216,ug.mL-1,Active
+48,Yadanzigan,CHEMBL2228451,CC1=C[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@]2(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C)OC[C@@]35[C@@H](C[C@@H]12)OC(=O)[C@H](O)[C@]54O,,,Inactive
+49,20-hydroxyyadanzigan,,,,,Inactive
 50,Brusatol,CHEMBL450464,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,29.19,nM,Active
 51,Bruceantin,CHEMBL509895,COC(=O)[C@@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)C)[C@@H]24,514000.0,nM,Inactive
 52,Bruceantinol,CHEMBL450145,COC(=O)[C@]12OC[C@]34[C@H]([C@@H](O)[C@@H]1O)[C@@]1(C)CC(=O)C(O)=C(C)[C@@H]1C[C@H]3OC(=O)[C@H](OC(=O)/C=C(\C)C(C)(C)OC(C)=O)[C@@H]24,50.0,nM,Active
@@ -54,14 +57,23 @@
 56,Bruceoside C,CHEMBL506633,COC(=O)[C@@]12OC[C@]34[C@H](OC(=O)C[C@@H]13)[C@H](OC(=O)C=C(C)C)[C@H]1C(C)=C(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)C[C@]1(C)[C@H]4[C@@H](O)[C@@H]2O,44000.0,nM,Inactive
 57,Bruceoside D,CHEMBL505146,CC(C)=CC(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C(=O)O)OC[C@]32[C@@H]14,52000.0,nM,Inactive
 58,Bruceoside E,CHEMBL450651,CC(C)CC(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C(=O)O)OC[C@]32[C@@H]14,59000.0,nM,Inactive
+59,Bruceoside F,CHEMBL448304,CC(=O)OC(C)(C)/C(C)=C/C(=O)O[C@H]1C(=O)O[C@@H]2C[C@H]3[C@H](C)C(=O)C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)=C[C@]3(C)[C@H]3[C@@H](O)[C@H](O)[C@]4(C(=O)O)OC[C@]32[C@@H]14,,,Inactive
+60,Bruceene,,,,,Inactive
+61,Bruceajavanin A,,,,,Inactive
+62,Bruceajavanin B,,,,,Inactive
+63,Brujavanol A,,,,,Inactive
+64,Brujavanol B,,,,,Inactive
 65,Brujavanol C,,,28800.0,nM,Inactive
 66,Brujavanol D,,,15.0,nM,Active
+67,Dihydrobruceajavanin A,,,,,Inactive
 68,Demethyl-dehydrobrusatol,,,10000.0,nM,Intermediate
 69,Deacetyl-yadanzioside I,,,22.04,ug.mL-1,Active
 70,Dehydrobrusatol,CHEMBL2037040,COC(=O)[C@@]12OC[C@@]34[C@@H](CC5=C(C)C(=O)C(O)=C[C@]5(C)[C@H]3[C@@H](O)[C@@H]1O)OC(=O)[C@H](OC(=O)C=C(C)C)[C@@H]24,10000.0,nM,Intermediate
 71,Dehydrobruceine B,,,0.046,ug.mL-1,Active
+72,Dehydrobruceantinol,,,,,Inactive
 73,Quassilactone A,,,406000.0,nM,Inactive
 74,Quassilactone B,,,406000.0,nM,Inactive
+75,3′-hydroxybrucein A,,,,,Inactive
 76,Bruceolline H,CHEMBL1922989,CC1(C)C(=O)C(=O)c2c1[nH]c1cc(O)ccc21,10000.0,nM,Intermediate
 77,Bruceolline I,CHEMBL1922990,CC1(C)c2[nH]c3cc(O)ccc3c2C(=O)[C@@H]1O,10000.0,nM,Intermediate
 78,Bruceolline J,CHEMBL1922991,CC1(C)c2[nH]c3ccccc3c2C(=O)[C@@H]1O,10000.0,nM,Intermediate
@@ -70,11 +82,15 @@
 81,Bruceolline M,CHEMBL1922994,CC(C)(O)C(=O)Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc12,10000.0,nM,Intermediate
 82,Bruceolline N,CHEMBL1922995,CC(C)(O)[C@@H](O)C[C@]1(O)C(=O)N([C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c2ccccc21,10000.0,nM,Intermediate
 83,Bruceacanthinoside,,,25000.0,nM,Inactive
+84,Brujavanone A,,,,,Inactive
+85,Brujavanone B,,,,,Inactive
 86,Brujavanone C,,,28800.0,nM,Inactive
 87,Brujavanone D,,,15.0,nM,Active
 88,Brujavanone E,,,6.0,nM,Active
 89,Brujavanone F,,,50.0,nM,Active
 90,Brujavanone G,,,18700.0,nM,Inactive
+91,Brujavanone H,,,,nM,Inactive
+92,Brujavanone I,,,,,Inactive
 93,Brujavanone J,,,100000.0,nM,Inactive
 94,Brujavanone K,,,220.0,nM,Active
 95,Brujavanone L,,,10000.0,nM,Intermediate
